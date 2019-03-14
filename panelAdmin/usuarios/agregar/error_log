@@ -1,0 +1,4 @@
+[12-Dec-2017 17:27:49 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/kuss/public_html/panelAdmin/inc/modulos/vistas/backend/Usuarios/agregar.php on line 73
+[23-Jan-2018 17:51:31 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[23-Jan-2018 17:52:56 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[23-Jan-2018 18:24:18 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233

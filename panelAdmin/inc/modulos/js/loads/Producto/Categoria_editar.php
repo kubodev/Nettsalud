@@ -1,0 +1,31 @@
+<?php
+	$dir=explode('inc',dirname(__FILE__));
+	require_once($dir[0]."inc/controlador.php");
+	$idProductoCategoria = $_POST['idProductoCategoria'];
+	if($_FILES['img'][ 'name'])
+	{
+		if(esImagen($_FILES['img'][ 'name']))
+		{
+			$dir=explode('inc',dirname(__FILE__));
+			$destino = $dir[0].'img/Productos';
+			$nombreFoto = cadenatexto(12); // Genera string aleatoriamente
+			move_uploaded_file($_FILES['img']['tmp_name'],$destino . '/' .$nombreFoto.'.'.extensionArchivo($_FILES['img']['name' ]));
+			$archivoFoto = $nombreFoto.'.'.extensionArchivo($_FILES['img']['name' ]);
+			mysql_query("UPDATE ProductoCategoria SET img = '".seguridad_sql($archivoFoto)."' WHERE idProductoCategoria = '".$idProductoCategoria."'");
+		} else { MsjError("Debes subir una imagen"); break; }
+	}
+	$sql = "UPDATE ProductoCategoria 
+	SET nombre = '".seguridad_sql($_POST['nombre'])."',
+	orden = '".seguridad_sql($_POST['orden'])."',
+	descripcion = '".seguridad_sql($_POST['descripcion'])."'
+	WHERE idProductoCategoria = '".$idProductoCategoria."'";
+	if(mysql_query($sql)) MsjAprob("Categoría editada exitosamente"); else MsjError("Ocurrió un error");
+	mysql_query("DELETE FROM rel_ProductoCategoria_ProductoCategoria WHERE idProductoCategoria_Hijo = '".$idProductoCategoria."'");
+	if($_POST['categoriaPadre'] > 0)
+	{
+		mysql_query("INSERT INTO rel_ProductoCategoria_ProductoCategoria (`idProductoCategoria_Padre`,`idProductoCategoria_Hijo`) VALUES ('".seguridad_sql($_POST['categoriaPadre'])."','".$idProductoCategoria."')");
+	}
+	$NombreProducto = limpiarurl(trim(substr(str_replace(' ', '-', strtolower($_POST['nombre'])),0,50)));
+	mysql_query("UPDATE ProductoCategoria SET URL = '".seguridad_sql($NombreProducto)."' WHERE idProductoCategoria = '".$idProductoCategoria."'");
+
+?>

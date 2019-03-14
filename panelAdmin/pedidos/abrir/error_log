@@ -1,0 +1,8 @@
+[19-Feb-2018 00:02:40 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 284
+[19-Feb-2018 00:02:40 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 284
+[19-Feb-2018 00:02:40 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 284
+[19-Feb-2018 00:03:05 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 288
+[19-Feb-2018 00:03:05 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 288
+[19-Feb-2018 00:03:05 America/Santiago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 288
+[19-Feb-2018 00:03:42 America/Santiago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 285
+[19-Feb-2018 00:03:44 America/Santiago] PHP Parse error:  syntax error, unexpected 'while' (T_WHILE) in /home/happyguau/public_html/panelAdmin/inc/modulos/php/clases/Productos.php on line 285

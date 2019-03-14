@@ -1,0 +1,4 @@
+User-Agent: * 
+Disallow: /_old
+Allow: /
+Sitemap: https://nettsalud.cl/sitemap.xml

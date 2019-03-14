@@ -1,0 +1,13 @@
+[05-Jan-2018 04:57:03 UTC] PHP Warning:  Unterminated comment starting line 127 in /home/kuss/public_html/panelAdmin/inc/controlador.php on line 127
+[05-Jan-2018 01:57:03 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[23-Jan-2018 17:49:54 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[23-Jan-2018 18:22:47 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[24-Jan-2018 13:36:47 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[24-Jan-2018 21:00:01 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[24-Jan-2018 21:00:10 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[24-Jan-2018 22:41:27 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[25-Jan-2018 01:05:12 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[25-Jan-2018 01:07:57 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[25-Jan-2018 01:07:59 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[30-Jan-2018 22:10:34 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[03-Feb-2018 16:59:14 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233

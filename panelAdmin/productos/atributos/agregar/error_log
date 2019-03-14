@@ -1,0 +1,2 @@
+[22-Jan-2018 03:54:01 UTC] PHP Warning:  Unterminated comment starting line 150 in /home/kuss/public_html/panelAdmin/inc/controlador.php on line 150
+[22-Jan-2018 00:54:01 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/kuss/public_html/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233

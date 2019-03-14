@@ -1,0 +1,2 @@
+[29-Dec-2018 09:46:06 America/Santiago] PHP Fatal error:  Call to a member function tieneHijos() on a non-object in /home/nettsalud/public_html/reservar/index.php on line 69
+[29-Dec-2018 09:46:27 America/Santiago] PHP Fatal error:  Call to a member function tieneHijos() on a non-object in /home/nettsalud/public_html/reservar/index.php on line 69

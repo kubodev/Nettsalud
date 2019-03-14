@@ -1,0 +1,230 @@
+[13-Feb-2018 02:29:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:29:52 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:29:52 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:29:52 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:29:52 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:30:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:30:25 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:30:25 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:30:25 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:30:25 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:34:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:34:47 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:34:47 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:34:47 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:34:47 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:39:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:39:20 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:39:20 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:39:20 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:39:20 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:42:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:42:31 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:42:31 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:42:31 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:42:31 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:44:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:44:35 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:44:35 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:44:35 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:44:35 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:46:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:46:12 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:46:12 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:46:12 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:46:12 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:46:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:46:18 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:46:18 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:46:18 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:46:18 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:46:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:46:37 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:46:37 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:46:37 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:46:37 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:46:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:46:38 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:46:38 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:46:38 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:46:38 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:56:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:56:39 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:56:39 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:56:39 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:56:39 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:56:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:56:44 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:56:44 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:56:44 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:56:44 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:56:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:56:49 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:56:49 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:56:49 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:56:49 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 02:59:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[12-Feb-2018 23:59:02 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[12-Feb-2018 23:59:02 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[12-Feb-2018 23:59:02 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[12-Feb-2018 23:59:02 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:02:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:02:01 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:02:01 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:02:01 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:02:01 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:08:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:08:57 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:08:57 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:08:57 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:08:57 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:09:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:09:26 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:09:26 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:09:26 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:09:26 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:11:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:11:09 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:11:09 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:11:10 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:11:10 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:12:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:12:14 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:12:14 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:12:14 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:12:14 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:16:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:16:53 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:16:53 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:16:53 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:16:53 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:20:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:20:58 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:20:58 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:20:58 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:20:58 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:25:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:25:20 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:25:20 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:25:21 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:25:21 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:26:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:26:21 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:26:21 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:26:22 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:26:22 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:26:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:26:43 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:26:43 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:26:43 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:26:43 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:27:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:27:03 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:27:03 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:27:03 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:27:03 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:27:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:27:51 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:27:51 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:27:51 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:27:51 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:30:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:30:29 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:30:29 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:30:29 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:30:29 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:35:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:35:34 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:35:34 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:35:34 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:35:34 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:35:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:35:56 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:35:56 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:35:56 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:35:56 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:39:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:39:08 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:39:08 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:39:08 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:39:08 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:39:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:39:22 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:39:22 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:39:22 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:39:22 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:39:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:39:47 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:39:47 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:39:47 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:39:47 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 03:41:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 00:41:22 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 00:41:22 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 00:41:22 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 00:41:22 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:05:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:05:34 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:05:34 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:05:34 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:05:34 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:16:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:16:45 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:16:45 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:16:45 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:16:45 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:17:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:17:23 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:17:23 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:17:23 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:17:23 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:21:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:21:24 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:21:24 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:21:24 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:21:24 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:24:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:24:17 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:24:17 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:24:17 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:24:17 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[13-Feb-2018 04:25:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[13-Feb-2018 01:25:42 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[13-Feb-2018 01:25:42 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[13-Feb-2018 01:25:42 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[13-Feb-2018 01:25:42 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[16-Feb-2018 14:17:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[16-Feb-2018 11:17:38 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[16-Feb-2018 11:17:38 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[16-Feb-2018 11:17:38 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[16-Feb-2018 11:17:39 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[16-Feb-2018 14:17:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[16-Feb-2018 11:17:52 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[16-Feb-2018 11:17:52 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[16-Feb-2018 11:17:52 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[16-Feb-2018 11:17:52 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[16-Feb-2018 14:46:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[16-Feb-2018 11:46:30 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[16-Feb-2018 11:46:30 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[16-Feb-2018 11:46:30 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[16-Feb-2018 11:46:30 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[28-Feb-2018 17:34:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[28-Feb-2018 14:34:18 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[28-Feb-2018 14:34:18 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[28-Feb-2018 14:34:18 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[28-Feb-2018 14:34:18 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[28-Feb-2018 17:34:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[28-Feb-2018 14:34:19 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[28-Feb-2018 14:34:19 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[28-Feb-2018 14:34:19 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[28-Feb-2018 14:34:19 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[28-Feb-2018 19:16:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[28-Feb-2018 16:16:00 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[28-Feb-2018 16:16:00 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[28-Feb-2018 16:16:00 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[28-Feb-2018 16:16:00 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
+[22-Mar-2018 16:35:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/var/conexionSql.php on line 6
+[22-Mar-2018 13:35:51 America/Santiago] PHP Notice:  Undefined variable: sistema_de_idiomas in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 16
+[22-Mar-2018 13:35:51 America/Santiago] PHP Notice:  Constant URL already defined in /home/bitxiteria/public_html/web/panelAdmin/inc/controlador.php on line 17
+[22-Mar-2018 13:35:51 America/Santiago] PHP Strict Standards:  Redefining already defined constructor for class flowAPI in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/php/clases/flowAPI.php on line 233
+[22-Mar-2018 13:35:51 America/Santiago] PHP Notice:  Undefined index: idUsuariosAdmin in /home/bitxiteria/public_html/web/panelAdmin/inc/modulos/vistas/estructura/header.php on line 18
